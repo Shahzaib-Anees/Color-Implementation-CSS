@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(233, 233, 233);
+}
+
+*{
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+     font-weight: bold; 
+}
+#top-head{
+    font-size: 4rem;
+    background-color: rgb(246, 224, 227);
+    color: rgb(142, 39, 39);
+    font-weight: 900;
+}
+.para-one{
+    font-size: 2rem;
+    color: gray;
+    font-weight: 500;
+    margin-right: 4%;
+    display: inline;
+    position: relative;
+    left: 2%;
+}
+#list{
+    font-size: 1.8rem;
+    list-style:circle;
+    font-weight: 200;
+    /* display: inline; */
+}
+#li-1{
+    color: rgb(26, 190, 26);
+    background-color: rgb(254, 254, 203);
+    width: 5%;
+    text-decoration: underline;
+    position: relative;
+    left: 4%;
+}
+#li-2{
+    color:  rgb(26, 190, 26);
+    background-color: rgb(254, 254, 203);
+    width: 6%;
+    text-decoration: underline;
+    position: relative;
+    left: 4%;
+}
+#li-3{
+    color:  rgb(26, 190, 26);
+    background-color: rgb(254, 254, 203);
+    width: 7%;
+    text-decoration: underline;
+    position: relative;
+    left: 4%;
+}
+#para-two{
+    font-size: 2rem;
+    font-weight: 300;
+    color:#f9d329;
+    background-color: rgb(254, 254, 203) ;
+}
+.anchor-para{
+    color: blue;
+    font-size: 1rem;    
+}
+.anchor-para>a{
+    color: blue;
+    text-decoration: none;
+    font-size: 1.2rem;
+}

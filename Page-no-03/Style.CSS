@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Burned&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu&family=Rubik+Burned&display=swap');
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+#top-head{
+    font-size: 1.8rem;
+    text-decoration: underline;
+    color: blue;
+    font-weight: 700;
+    display: inline-block;
+    position: relative;
+    left: 65%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid  rgb(249, 249, 249);
+}
+
+#para-one{
+    font-size: 1.8rem;
+    font-weight: 900;
+    font-style: italic;
+    background-color: rgb(248, 248, 248);
+    border: 1px solid  rgb(249, 249, 249);
+    display: inline;
+    margin-left: 2%;
+}
+#para-two{
+    font-size: 1.9em;
+    font-weight: 900;
+    display: inline;
+    border: 1px solid  rgb(249, 249, 249);
+    background-color: rgb(248, 248, 248);
+    margin-left: 2%;
+}
+#para-three{
+    font-size: 1.8em;
+    font-weight: 900;
+    display: inline;
+    border: 1px solid  rgb(249, 249, 249);
+    background-color: rgb(249, 249, 249);
+    margin-left: 2%;
+}
+#para-four{
+    font-size: 1.6em;
+    font-weight: 900;
+    display: inline;
+    border: 1px solid  rgb(249, 249, 249);
+    background-color: #f8f8f8;
+    margin-left: 2%;
+}
+.anchor-para {
+    color: blue;
+    text-transform: capitalize;
+    font-size: 16px;
+    margin-left: 2%
+}
+
+.anchor-para>a {
+    text-decoration: none;
+    color: blue;
+    font-size: 18px;
+    text-decoration: none;
+}
+.new-para{
+    font-family: "Rubik Burned",sans-serif,Arial;
+    font-size: 3rem;
+    font-weight: 600;
+    text-align: center;
+}
+.urdu-para{
+    font-family: "Noto Nastaliq";
+    font-size: 2rem;
+    text-align: center;
+}

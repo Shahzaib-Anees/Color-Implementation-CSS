@@ -1,0 +1,40 @@
+#top-head {
+    background-color: rgb(78, 156, 233);
+    font-size: 38px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: rgb(5, 89, 255);
+    /* text-shadow: 8px -22px 5px rgb(103, 147, 236); */
+
+}
+
+#fa-head {
+    color: blueviolet;
+    font-size: 23px;
+}
+
+#para-one {
+    background-color: yellow;
+    font-size: 23px;
+    color: #f69235;
+}
+
+#para-two {
+    background-color: lightslategray;
+    font-size: 23px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+.anchor-para {
+    color: blue;
+    text-transform: capitalize;
+    font-size: 16px;
+}
+
+.anchor-para>a {
+    text-decoration: none;
+    color: blue;
+    font-size: 18px;
+    text-decoration: none;
+}
